@@ -32,12 +32,6 @@ I'm a passionate Laravel developer with experience in building dynamic web appli
 - Advanced Laravel features and design patterns
 - Expanding frontend skills with Vue.js and Quasar Framework
 
-## 🛠️ Projects
-Here are some of my notable projects:
-- **[Project 1](#):** A complete ticketing system built with CodeIgniter and Laravel.
-- **[Project 2](#):** A videotron control dashboard that syncs with live video monitors.
-- **[Project 3](#):** API with static token authentication for secure data access.
-
 ## 📫 Let's Connect
 - Email: [mxbal026@gmail.com]
 - LinkedIn: [linkedin.com/in/mxbal](#)
