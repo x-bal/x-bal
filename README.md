@@ -4,6 +4,7 @@ I'm a passionate Laravel developer with experience in building dynamic web appli
 
 ## 🔧 Technologies & Tools
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
+![NodeJs](https://img.shields.io/badge/-NodeJs-green?style=flat-square&logo=nodejs)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
@@ -38,8 +39,8 @@ Here are some of my notable projects:
 - **[Project 3](#):** API with static token authentication for secure data access.
 
 ## 📫 Let's Connect
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile](#)
+- Email: [mxbal026@gmail.com]
+- LinkedIn: [linkedin.com/in/mxbal](#)
 - GitHub: [github.com/x-bal](https://github.com/x-bal)
 
 ---
