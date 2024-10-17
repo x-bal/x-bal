@@ -33,7 +33,7 @@ I'm a passionate Laravel developer with experience in building dynamic web appli
 - Expanding frontend skills with Vue.js and Quasar Framework
 
 ## 📫 Let's Connect
-- Email: [mxbal026@gmail.com]
+- Email: mxbal026@gmail.com(#)
 - LinkedIn: [linkedin.com/in/mxbal](#)
 - GitHub: [github.com/x-bal](https://github.com/x-bal)
 
